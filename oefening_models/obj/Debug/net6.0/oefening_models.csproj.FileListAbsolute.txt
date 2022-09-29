@@ -1,0 +1,26 @@
+D:\Repositories\Gevorderde-Programmeertechnieken\01-ef-code-first\oefening\oefening_models\bin\Debug\net6.0\oefening_models.deps.json
+D:\Repositories\Gevorderde-Programmeertechnieken\01-ef-code-first\oefening\oefening_models\bin\Debug\net6.0\oefening_models.dll
+D:\Repositories\Gevorderde-Programmeertechnieken\01-ef-code-first\oefening\oefening_models\bin\Debug\net6.0\oefening_models.pdb
+D:\Repositories\Gevorderde-Programmeertechnieken\01-ef-code-first\oefening\oefening_models\obj\Debug\net6.0\oefening_models.csproj.AssemblyReference.cache
+D:\Repositories\Gevorderde-Programmeertechnieken\01-ef-code-first\oefening\oefening_models\obj\Debug\net6.0\oefening_models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\Gevorderde-Programmeertechnieken\01-ef-code-first\oefening\oefening_models\obj\Debug\net6.0\oefening_models.AssemblyInfoInputs.cache
+D:\Repositories\Gevorderde-Programmeertechnieken\01-ef-code-first\oefening\oefening_models\obj\Debug\net6.0\oefening_models.AssemblyInfo.cs
+D:\Repositories\Gevorderde-Programmeertechnieken\01-ef-code-first\oefening\oefening_models\obj\Debug\net6.0\oefening_models.csproj.CoreCompileInputs.cache
+D:\Repositories\Gevorderde-Programmeertechnieken\01-ef-code-first\oefening\oefening_models\obj\Debug\net6.0\oefening_models.dll
+D:\Repositories\Gevorderde-Programmeertechnieken\01-ef-code-first\oefening\oefening_models\obj\Debug\net6.0\refint\oefening_models.dll
+D:\Repositories\Gevorderde-Programmeertechnieken\01-ef-code-first\oefening\oefening_models\obj\Debug\net6.0\oefening_models.pdb
+D:\Repositories\Gevorderde-Programmeertechnieken\01-ef-code-first\oefening\oefening_models\obj\Debug\net6.0\ref\oefening_models.dll
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_models\bin\Debug\net6.0\oefening_models.deps.json
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_models\bin\Debug\net6.0\oefening_models.runtimeconfig.json
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_models\bin\Debug\net6.0\oefening_models.dll
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_models\bin\Debug\net6.0\oefening_models.pdb
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_models\obj\Debug\net6.0\oefening_models.csproj.AssemblyReference.cache
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_models\obj\Debug\net6.0\oefening_models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_models\obj\Debug\net6.0\oefening_models.AssemblyInfoInputs.cache
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_models\obj\Debug\net6.0\oefening_models.AssemblyInfo.cs
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_models\obj\Debug\net6.0\oefening_models.csproj.CoreCompileInputs.cache
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_models\obj\Debug\net6.0\oefening_models.dll
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_models\obj\Debug\net6.0\refint\oefening_models.dll
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_models\obj\Debug\net6.0\oefening_models.pdb
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_models\obj\Debug\net6.0\oefening_models.genruntimeconfig.cache
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_models\obj\Debug\net6.0\ref\oefening_models.dll

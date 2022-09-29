@@ -1,0 +1,29 @@
+D:\Repositories\Gevorderde-Programmeertechnieken\01-ef-code-first\oefening\oefening_dal\bin\Debug\net6.0\oefening_dal.deps.json
+D:\Repositories\Gevorderde-Programmeertechnieken\01-ef-code-first\oefening\oefening_dal\bin\Debug\net6.0\oefening_dal.dll
+D:\Repositories\Gevorderde-Programmeertechnieken\01-ef-code-first\oefening\oefening_dal\bin\Debug\net6.0\oefening_dal.pdb
+D:\Repositories\Gevorderde-Programmeertechnieken\01-ef-code-first\oefening\oefening_dal\obj\Debug\net6.0\oefening_dal.csproj.AssemblyReference.cache
+D:\Repositories\Gevorderde-Programmeertechnieken\01-ef-code-first\oefening\oefening_dal\obj\Debug\net6.0\oefening_dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\Gevorderde-Programmeertechnieken\01-ef-code-first\oefening\oefening_dal\obj\Debug\net6.0\oefening_dal.AssemblyInfoInputs.cache
+D:\Repositories\Gevorderde-Programmeertechnieken\01-ef-code-first\oefening\oefening_dal\obj\Debug\net6.0\oefening_dal.AssemblyInfo.cs
+D:\Repositories\Gevorderde-Programmeertechnieken\01-ef-code-first\oefening\oefening_dal\obj\Debug\net6.0\oefening_dal.csproj.CoreCompileInputs.cache
+D:\Repositories\Gevorderde-Programmeertechnieken\01-ef-code-first\oefening\oefening_dal\obj\Debug\net6.0\oefening_dal.dll
+D:\Repositories\Gevorderde-Programmeertechnieken\01-ef-code-first\oefening\oefening_dal\obj\Debug\net6.0\refint\oefening_dal.dll
+D:\Repositories\Gevorderde-Programmeertechnieken\01-ef-code-first\oefening\oefening_dal\obj\Debug\net6.0\oefening_dal.pdb
+D:\Repositories\Gevorderde-Programmeertechnieken\01-ef-code-first\oefening\oefening_dal\obj\Debug\net6.0\ref\oefening_dal.dll
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_dal\bin\Debug\net6.0\oefening_dal.deps.json
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_dal\bin\Debug\net6.0\oefening_dal.runtimeconfig.json
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_dal\bin\Debug\net6.0\oefening_dal.dll
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_dal\bin\Debug\net6.0\oefening_dal.pdb
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_dal\bin\Debug\net6.0\oefening_models.dll
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_dal\bin\Debug\net6.0\oefening_models.pdb
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_dal\obj\Debug\net6.0\oefening_dal.csproj.AssemblyReference.cache
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_dal\obj\Debug\net6.0\oefening_dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_dal\obj\Debug\net6.0\oefening_dal.AssemblyInfoInputs.cache
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_dal\obj\Debug\net6.0\oefening_dal.AssemblyInfo.cs
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_dal\obj\Debug\net6.0\oefening_dal.csproj.CoreCompileInputs.cache
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_dal\obj\Debug\net6.0\oefening_dal.csproj.CopyComplete
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_dal\obj\Debug\net6.0\oefening_dal.dll
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_dal\obj\Debug\net6.0\refint\oefening_dal.dll
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_dal\obj\Debug\net6.0\oefening_dal.pdb
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_dal\obj\Debug\net6.0\oefening_dal.genruntimeconfig.cache
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_dal\obj\Debug\net6.0\ref\oefening_dal.dll

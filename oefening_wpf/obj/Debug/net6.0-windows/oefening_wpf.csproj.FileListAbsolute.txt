@@ -1,0 +1,89 @@
+D:\Repositories\Gevorderde-Programmeertechnieken\01-ef-code-first\oefening\oefening_wpf\bin\Debug\net6.0-windows\oefening_wpf.exe
+D:\Repositories\Gevorderde-Programmeertechnieken\01-ef-code-first\oefening\oefening_wpf\bin\Debug\net6.0-windows\oefening_wpf.deps.json
+D:\Repositories\Gevorderde-Programmeertechnieken\01-ef-code-first\oefening\oefening_wpf\bin\Debug\net6.0-windows\oefening_wpf.runtimeconfig.json
+D:\Repositories\Gevorderde-Programmeertechnieken\01-ef-code-first\oefening\oefening_wpf\bin\Debug\net6.0-windows\oefening_wpf.dll
+D:\Repositories\Gevorderde-Programmeertechnieken\01-ef-code-first\oefening\oefening_wpf\bin\Debug\net6.0-windows\oefening_wpf.pdb
+D:\Repositories\Gevorderde-Programmeertechnieken\01-ef-code-first\oefening\oefening_wpf\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+D:\Repositories\Gevorderde-Programmeertechnieken\01-ef-code-first\oefening\oefening_wpf\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+D:\Repositories\Gevorderde-Programmeertechnieken\01-ef-code-first\oefening\oefening_wpf\obj\Debug\net6.0-windows\oefening_wpf.csproj.AssemblyReference.cache
+D:\Repositories\Gevorderde-Programmeertechnieken\01-ef-code-first\oefening\oefening_wpf\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Repositories\Gevorderde-Programmeertechnieken\01-ef-code-first\oefening\oefening_wpf\obj\Debug\net6.0-windows\App.g.cs
+D:\Repositories\Gevorderde-Programmeertechnieken\01-ef-code-first\oefening\oefening_wpf\obj\Debug\net6.0-windows\oefening_wpf_MarkupCompile.cache
+D:\Repositories\Gevorderde-Programmeertechnieken\01-ef-code-first\oefening\oefening_wpf\obj\Debug\net6.0-windows\oefening_wpf_MarkupCompile.lref
+D:\Repositories\Gevorderde-Programmeertechnieken\01-ef-code-first\oefening\oefening_wpf\obj\Debug\net6.0-windows\App.baml
+D:\Repositories\Gevorderde-Programmeertechnieken\01-ef-code-first\oefening\oefening_wpf\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Repositories\Gevorderde-Programmeertechnieken\01-ef-code-first\oefening\oefening_wpf\obj\Debug\net6.0-windows\oefening_wpf.g.resources
+D:\Repositories\Gevorderde-Programmeertechnieken\01-ef-code-first\oefening\oefening_wpf\obj\Debug\net6.0-windows\oefening_wpf.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\Gevorderde-Programmeertechnieken\01-ef-code-first\oefening\oefening_wpf\obj\Debug\net6.0-windows\oefening_wpf.AssemblyInfoInputs.cache
+D:\Repositories\Gevorderde-Programmeertechnieken\01-ef-code-first\oefening\oefening_wpf\obj\Debug\net6.0-windows\oefening_wpf.AssemblyInfo.cs
+D:\Repositories\Gevorderde-Programmeertechnieken\01-ef-code-first\oefening\oefening_wpf\obj\Debug\net6.0-windows\oefening_wpf.csproj.CoreCompileInputs.cache
+D:\Repositories\Gevorderde-Programmeertechnieken\01-ef-code-first\oefening\oefening_wpf\obj\Debug\net6.0-windows\oefening_wpf.csproj.CopyComplete
+D:\Repositories\Gevorderde-Programmeertechnieken\01-ef-code-first\oefening\oefening_wpf\obj\Debug\net6.0-windows\oefening_wpf.dll
+D:\Repositories\Gevorderde-Programmeertechnieken\01-ef-code-first\oefening\oefening_wpf\obj\Debug\net6.0-windows\refint\oefening_wpf.dll
+D:\Repositories\Gevorderde-Programmeertechnieken\01-ef-code-first\oefening\oefening_wpf\obj\Debug\net6.0-windows\oefening_wpf.pdb
+D:\Repositories\Gevorderde-Programmeertechnieken\01-ef-code-first\oefening\oefening_wpf\obj\Debug\net6.0-windows\oefening_wpf.genruntimeconfig.cache
+D:\Repositories\Gevorderde-Programmeertechnieken\01-ef-code-first\oefening\oefening_wpf\obj\Debug\net6.0-windows\ref\oefening_wpf.dll
+D:\Repositories\Gevorderde-Programmeertechnieken\01-ef-code-first\oefening\oefening_wpf\obj\Debug\net6.0-windows\ReeksWindow.g.cs
+D:\Repositories\Gevorderde-Programmeertechnieken\01-ef-code-first\oefening\oefening_wpf\obj\Debug\net6.0-windows\ReeksWindow.baml
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\bin\Debug\net6.0-windows\oefening_wpf.exe
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\bin\Debug\net6.0-windows\oefening_wpf.deps.json
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\bin\Debug\net6.0-windows\oefening_wpf.runtimeconfig.json
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\bin\Debug\net6.0-windows\oefening_wpf.dll
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\bin\Debug\net6.0-windows\oefening_wpf.pdb
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\obj\Debug\net6.0-windows\oefening_wpf.csproj.AssemblyReference.cache
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\obj\Debug\net6.0-windows\ReeksWindow.g.cs
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\obj\Debug\net6.0-windows\oefening_wpf_MarkupCompile.cache
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\obj\Debug\net6.0-windows\oefening_wpf_MarkupCompile.lref
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\obj\Debug\net6.0-windows\App.baml
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\obj\Debug\net6.0-windows\ReeksWindow.baml
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\obj\Debug\net6.0-windows\oefening_wpf.g.resources
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\obj\Debug\net6.0-windows\oefening_wpf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\obj\Debug\net6.0-windows\oefening_wpf.AssemblyInfoInputs.cache
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\obj\Debug\net6.0-windows\oefening_wpf.AssemblyInfo.cs
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\obj\Debug\net6.0-windows\oefening_wpf.csproj.CoreCompileInputs.cache
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\obj\Debug\net6.0-windows\oefening_wpf.csproj.CopyComplete
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\obj\Debug\net6.0-windows\oefening_wpf.dll
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\obj\Debug\net6.0-windows\refint\oefening_wpf.dll
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\obj\Debug\net6.0-windows\oefening_wpf.pdb
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\obj\Debug\net6.0-windows\oefening_wpf.genruntimeconfig.cache
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\obj\Debug\net6.0-windows\ref\oefening_wpf.dll
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\bin\Debug\net6.0-windows\oefening_dal.dll
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\bin\Debug\net6.0-windows\oefening_models.dll
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\bin\Debug\net6.0-windows\oefening_dal.pdb
+C:\Users\natha\OneDrive\Documents\Programmeren GRAD\AJ 2022 - 2023\Programming\oefening\oefening_wpf\bin\Debug\net6.0-windows\oefening_models.pdb

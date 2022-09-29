@@ -1,0 +1,43 @@
+﻿<Window x:Class="oefening_wpf.DelegatesInAction"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:oefening_wpf"
+        mc:Ignorable="d"
+        Title="DelegatesInAction" Height="450" Width="800"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        Background="{DynamicResource MaterialDesignPaper}"
+        FontFamily="{DynamicResource MaterialDesignFont}">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <TextBox x:Name="txtAantal" Grid.Row="0" Grid.Column="0" Margin="5,5,5,15"
+             materialDesign:HintAssist.Hint="Aantal"
+             Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+             VerticalAlignment="Center" />
+        <ComboBox x:Name="cmbProducten" Grid.Row="0" Grid.Column="1" Margin="5"
+              materialDesign:HintAssist.Hint="Search"
+              IsEditable="True" />
+        <Button x:Name="btnKopen" Content="Kopen" Grid.Row="0" Grid.Column="2"  Margin="5" />
+        <ListBox x:Name="lstWinkelkar" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="3" Margin="5" />
+        <Button x:Name="btnAfdrukken1" Content="Bon Afdrukken (1)" Grid.Row="0" Grid.Column="3" Margin="5" />
+        <TextBlock x:Name="txtBon1" Grid.Row="1" Grid.Column="3" Margin="5" />
+        <Button x:Name="btnAfdrukken2" Content="Bon Afdrukken (2)" Grid.Row="0" Grid.Column="4" Margin="5" />
+        <TextBlock x:Name="txtBon2" Grid.Row="1" Grid.Column="4" Margin="5" />
+    </Grid>
+</Window>
